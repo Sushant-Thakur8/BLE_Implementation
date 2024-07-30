@@ -1,0 +1,5 @@
+DeviceConfigurationTool..FirmwareRepositoryPath=D\:\\STM_Application\\STM32Cube_FW_WBA_V1.4.0
+DeviceConfigurationTool..UpdaterCheckInterval=5
+DeviceConfigurationTool..UpdaterDataRefresh=dataRefreshDataOnly
+DeviceConfigurationTool..UpdaterDataRefreshInterfval=3
+eclipse.preferences.version=1
