@@ -1,5 +1,5 @@
-Application/User/STM32_WPAN/App/p2p_server.o: \
- ../Application/User/STM32_WPAN/App/p2p_server.c \
+Application/User/STM32_WPAN/App/HPL_App.o: \
+ ../Application/User/STM32_WPAN/App/HPL_App.c ../../Core/Inc/HPL_App.h \
  ../../System/Config/Log/log_module.h ../../Core/Inc/app_conf.h \
  ../../System/Interfaces/hw_if.h \
  ../../Drivers/CMSIS/Device/ST/STM32WBAxx/Include/stm32wbaxx.h \
@@ -53,31 +53,8 @@ Application/User/STM32_WPAN/App/p2p_server.o: \
  ../../Core/Inc/utilities_conf.h \
  ../../Drivers/CMSIS/Include/cmsis_compiler.h ../../Core/Inc/app_conf.h \
  ../../Utilities/misc/stm32_mem.h ../../Core/Inc/utilities_conf.h \
- ../../Utilities/misc/stm32_tiny_vsnprintf.h \
- ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/common_blesvc.h \
- ../../Middlewares/ST/STM32_WPAN/ble/ble_common.h \
- ../../STM32_WPAN/App/ble_conf.h ../../STM32_WPAN/App/ble_dbg_conf.h \
- ../../Middlewares/ST/STM32_WPAN/ble/ble.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_core.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_defs.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_vs_codes.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_gap_aci.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_types.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_const.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_gatt_aci.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_hal_aci.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_hci_le.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_l2cap_aci.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_events.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_bufsize.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_legacy.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_bufsize.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_defs.h \
- ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h \
- ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h \
- ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h \
- ../../System/Modules/dbg_trace.h ../../STM32_WPAN/App/p2p_server.h
+ ../../Utilities/misc/stm32_tiny_vsnprintf.h
+../../Core/Inc/HPL_App.h:
 ../../System/Config/Log/log_module.h:
 ../../Core/Inc/app_conf.h:
 ../../System/Interfaces/hw_if.h:
@@ -135,29 +112,3 @@ Application/User/STM32_WPAN/App/p2p_server.o: \
 ../../Utilities/misc/stm32_mem.h:
 ../../Core/Inc/utilities_conf.h:
 ../../Utilities/misc/stm32_tiny_vsnprintf.h:
-../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/common_blesvc.h:
-../../Middlewares/ST/STM32_WPAN/ble/ble_common.h:
-../../STM32_WPAN/App/ble_conf.h:
-../../STM32_WPAN/App/ble_dbg_conf.h:
-../../Middlewares/ST/STM32_WPAN/ble/ble.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_core.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_defs.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_vs_codes.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_gap_aci.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_types.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_const.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_gatt_aci.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_hal_aci.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_hci_le.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_l2cap_aci.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/auto/ble_events.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_bufsize.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_legacy.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_bufsize.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_defs.h:
-../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h:
-../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h:
-../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h:
-../../System/Modules/dbg_trace.h:
-../../STM32_WPAN/App/p2p_server.h:

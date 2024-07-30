@@ -1,4 +1,4 @@
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:237:13:P2P_SERVER_Switch_c_SendNotification	2
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:103:6:P2P_SERVER_Notification	6
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:165:6:P2P_SERVER_APP_EvtRx	2
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:202:6:P2P_SERVER_APP_Init	1
+../Application/User/STM32_WPAN/App/p2p_server_app.c:237:13:P2P_SERVER_Switch_c_SendNotification	2
+../Application/User/STM32_WPAN/App/p2p_server_app.c:103:6:P2P_SERVER_Notification	6
+../Application/User/STM32_WPAN/App/p2p_server_app.c:165:6:P2P_SERVER_APP_EvtRx	2
+../Application/User/STM32_WPAN/App/p2p_server_app.c:202:6:P2P_SERVER_APP_Init	1

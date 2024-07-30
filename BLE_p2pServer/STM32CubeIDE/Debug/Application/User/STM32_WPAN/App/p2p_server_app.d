@@ -1,5 +1,5 @@
 Application/User/STM32_WPAN/App/p2p_server_app.o: \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c \
+ ../Application/User/STM32_WPAN/App/p2p_server_app.c \
  ../../Core/Inc/main.h \
  ../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_hal.h \
  ../../Core/Inc/stm32wbaxx_hal_conf.h \
@@ -72,8 +72,8 @@ Application/User/STM32_WPAN/App/p2p_server_app.o: \
  ../../System/Modules/RTDebug/debug_signals.h \
  ../../Middlewares/ST/STM32_WPAN/link_layer/ll_cmd_lib/inc/bsp.h \
  ../../Core/Inc/app_common.h ../../System/Config/Log/log_module.h \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/app_ble.h \
- ../../STM32_WPAN/Target/ll_sys_if.h ../../System/Modules/dbg_trace.h \
+ ../../STM32_WPAN/App/app_ble.h ../../STM32_WPAN/Target/ll_sys_if.h \
+ ../../System/Modules/dbg_trace.h \
  ../../Middlewares/ST/STM32_WPAN/ble/ble.h \
  ../../STM32_WPAN/App/ble_conf.h ../../STM32_WPAN/App/ble_dbg_conf.h \
  ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_core.h \
@@ -95,8 +95,7 @@ Application/User/STM32_WPAN/App/p2p_server_app.o: \
  ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h \
  ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h \
  ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.h \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server.h \
+ ../../STM32_WPAN/App/p2p_server_app.h ../../STM32_WPAN/App/p2p_server.h \
  ../../Utilities/sequencer/stm32_seq.h \
  ../../Drivers/BSP/STM32WBAxx_Nucleo/stm32wbaxx_nucleo.h \
  ../../Core/Inc/stm32wbaxx_nucleo_conf.h \
@@ -179,7 +178,7 @@ Application/User/STM32_WPAN/App/p2p_server_app.o: \
 ../../Middlewares/ST/STM32_WPAN/link_layer/ll_cmd_lib/inc/bsp.h:
 ../../Core/Inc/app_common.h:
 ../../System/Config/Log/log_module.h:
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/app_ble.h:
+../../STM32_WPAN/App/app_ble.h:
 ../../STM32_WPAN/Target/ll_sys_if.h:
 ../../System/Modules/dbg_trace.h:
 ../../Middlewares/ST/STM32_WPAN/ble/ble.h:
@@ -204,8 +203,8 @@ D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/app_ble.h:
 ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h:
 ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h:
 ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h:
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.h:
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server.h:
+../../STM32_WPAN/App/p2p_server_app.h:
+../../STM32_WPAN/App/p2p_server.h:
 ../../Utilities/sequencer/stm32_seq.h:
 ../../Drivers/BSP/STM32WBAxx_Nucleo/stm32wbaxx_nucleo.h:
 ../../Core/Inc/stm32wbaxx_nucleo_conf.h:
