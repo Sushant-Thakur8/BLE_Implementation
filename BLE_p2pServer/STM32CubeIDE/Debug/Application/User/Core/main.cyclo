@@ -1,0 +1,13 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:135:6:SystemClock_Config	5
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:203:6:PeriphCommonClock_Config	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:223:6:MX_ADC4_Init	3
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:282:6:MX_CRC_Init	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:315:6:MX_GPDMA1_Init	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:345:6:MX_ICACHE_Init	3
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:378:6:MX_RAMCFG_Init	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:407:6:MX_RNG_Init	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:437:6:MX_RTC_Init	5
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:507:6:MX_USART1_UART_Init	5
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:555:6:MX_GPIO_Init	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:77:5:main	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Core/Src/main.c:581:6:Error_Handler	1

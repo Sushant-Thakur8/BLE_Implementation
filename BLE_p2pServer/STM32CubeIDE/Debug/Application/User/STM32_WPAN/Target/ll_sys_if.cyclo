@@ -1,0 +1,6 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:88:6:ll_sys_bg_process_init	1
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:99:6:ll_sys_schedule_bg_process	1
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:109:6:ll_sys_schedule_bg_process_isr	1
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:119:6:ll_sys_config_params	3
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:159:6:ll_sys_bg_temperature_measurement	2
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/ll_sys_if.c:244:6:ll_sys_reset	5

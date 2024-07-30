@@ -1,0 +1,14 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:28:13:SCM_HSI_CLK_ON	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:34:13:SCM_HSI_CLK_OFF	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:204:23:SwitchHse16toHse32	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:515:16:scm_pll_fractional_update	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:492:16:scm_pll_setconfig	24	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:637:13:scm_pllready	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:541:16:scm_setsystemclock	16	static,ignoring_inline_asm
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:652:16:scm_setwaitstates	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:712:16:scm_hserdy_isr	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:426:16:scm_setup	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:335:16:scm_init	24	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:778:16:scm_pllrdy_isr	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:816:16:scm_notifyradiostate	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/scm.c:835:16:scm_standbyexit	16	static

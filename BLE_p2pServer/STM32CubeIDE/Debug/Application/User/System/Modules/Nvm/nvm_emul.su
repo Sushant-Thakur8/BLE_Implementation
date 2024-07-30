@@ -1,0 +1,6 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:66:6:NVM_Init	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:203:5:NVM_Get	32	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:304:5:NVM_Compare	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:417:13:NVMCB_Store	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:89:5:NVM_Add	64	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Nvm/nvm_emul.c:335:6:NVM_Discard	8	static

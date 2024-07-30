@@ -1,0 +1,4 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:237:13:P2P_SERVER_Switch_c_SendNotification	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:103:6:P2P_SERVER_Notification	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:165:6:P2P_SERVER_APP_EvtRx	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:202:6:P2P_SERVER_APP_Init	8	static

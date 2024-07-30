@@ -1,0 +1,12 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:171:19:HAL_FLASH_Program	13
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:236:19:HAL_FLASH_Program_IT	9
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:429:13:HAL_FLASH_EndOfOperationCallback	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:447:13:HAL_FLASH_OperationErrorCallback	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:295:6:HAL_FLASH_IRQHandler	9
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:480:19:HAL_FLASH_Unlock	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:522:19:HAL_FLASH_Lock	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:555:19:HAL_FLASH_OB_Unlock	2
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:577:19:HAL_FLASH_OB_Lock	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:595:19:HAL_FLASH_OB_Launch	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:636:10:HAL_FLASH_GetError	1
+D:/Github/BLE_Implementation/BLE_p2pServer/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_flash.c:660:19:FLASH_WaitForLastOperation	7

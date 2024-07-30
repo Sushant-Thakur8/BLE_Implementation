@@ -1,0 +1,5 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/flash_manager.c:506:13:FM_WindowAllowed_Callback	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/flash_manager.c:431:24:FM_CheckFlashManagerState	8
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/flash_manager.c:133:17:FM_Write	7
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/flash_manager.c:184:17:FM_Erase	6
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/flash_manager.c:231:6:FM_BackgroundProcess	22

@@ -1,0 +1,2 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/host_stack_if.c:47:6:HostStack_Process	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/Target/host_stack_if.c:66:6:BleStackCB_Process	8	static

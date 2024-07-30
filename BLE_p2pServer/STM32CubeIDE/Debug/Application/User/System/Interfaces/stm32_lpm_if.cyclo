@@ -1,0 +1,8 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:498:6:PWR_EnterSleepMode	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:512:6:PWR_ExitSleepMode	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:278:16:PWR_EnterOffMode	3
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:456:16:PWR_EnterStopMode	2
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:480:16:PWR_ExitStopMode	3
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:132:23:Standby_Restore_GPIO	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:350:16:PWR_ExitOffMode	4
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/stm32_lpm_if.c:519:10:is_boot_from_standby	3

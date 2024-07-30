@@ -1,0 +1,5 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/simple_nvm_arbiter.c:769:6:SNVMA_FlashManagerCallback	64	static,ignoring_inline_asm
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/simple_nvm_arbiter.c:229:20:SNVMA_Init	64	static,ignoring_inline_asm
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/simple_nvm_arbiter.c:422:20:SNVMA_Register	16	static,ignoring_inline_asm
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/simple_nvm_arbiter.c:533:20:SNVMA_Restore	40	static,ignoring_inline_asm
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/Flash/simple_nvm_arbiter.c:655:20:SNVMA_Write	40	static,ignoring_inline_asm

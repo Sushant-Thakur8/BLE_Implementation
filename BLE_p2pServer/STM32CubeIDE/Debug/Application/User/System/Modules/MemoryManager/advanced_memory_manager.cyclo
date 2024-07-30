@@ -1,0 +1,5 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/MemoryManager/advanced_memory_manager.c:127:22:AMM_Init	19
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/MemoryManager/advanced_memory_manager.c:290:22:AMM_DeInit	2
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/MemoryManager/advanced_memory_manager.c:324:22:AMM_Alloc	17
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/MemoryManager/advanced_memory_manager.c:475:22:AMM_Free	13
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/MemoryManager/advanced_memory_manager.c:581:6:AMM_BackgroundProcess	4

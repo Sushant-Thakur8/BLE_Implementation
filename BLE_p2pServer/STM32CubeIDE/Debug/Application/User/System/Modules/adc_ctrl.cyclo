@@ -1,0 +1,9 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:220:29:ADCCTRL_RequestIpState	12
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:818:29:ADCCTRL_MutexTake	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:823:29:ADCCTRL_MutexRelease	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:158:29:ADCCTRL_Init	6
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:186:29:ADCCTRL_RegisterHandle	4
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:260:29:ADCCTRL_RequestRawValue	21
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:322:29:ADCCTRL_RequestTemperature	22
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:409:29:ADCCTRL_RequestCoreVoltage	21
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/adc_ctrl.c:482:29:ADCCTRL_RequestRefVoltage	21

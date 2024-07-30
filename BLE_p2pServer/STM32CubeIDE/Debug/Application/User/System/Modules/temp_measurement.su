@@ -1,0 +1,2 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/temp_measurement.c:47:23:TEMPMEAS_Init	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Modules/temp_measurement.c:68:6:TEMPMEAS_RequestTemperatureMeasurement	24	static,ignoring_inline_asm

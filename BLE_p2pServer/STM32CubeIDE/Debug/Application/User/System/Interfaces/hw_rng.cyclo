@@ -1,0 +1,8 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:26:13:RNG_KERNEL_CLK_ON	3
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:35:13:RNG_KERNEL_CLK_OFF	1
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:61:6:HW_RNG_Disable	5
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:75:6:HW_RNG_EnableClock	2
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:95:6:HW_RNG_DisableClock	5
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:235:6:HW_RNG_Start	13
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:255:6:HW_RNG_Get	5
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/hw_rng.c:285:5:HW_RNG_Process	17

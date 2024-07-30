@@ -1,0 +1,6 @@
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:319:13:UsartIf_TxCpltCallback	0	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:116:25:UART_Init	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:144:25:UART_DeInit	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:213:25:UART_StartRx	16	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:333:13:UsartIf_RxCpltCallback	8	static
+D:/Github/BLE_Implementation/BLE_p2pServer/System/Interfaces/usart_if.c:239:25:UART_TransmitDMA	16	static
