@@ -4,6 +4,7 @@
 "./Application/User/Core/stm32wbaxx_it.o"
 "./Application/User/Core/syscalls.o"
 "./Application/User/Core/sysmem.o"
+"./Application/User/STM32_WPAN/App/HPL_App.o"
 "./Application/User/STM32_WPAN/App/app_ble.o"
 "./Application/User/STM32_WPAN/App/p2p_server.o"
 "./Application/User/STM32_WPAN/App/p2p_server_app.o"

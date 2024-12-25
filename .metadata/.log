@@ -70,3 +70,63 @@ java.util.ConcurrentModificationException
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-07-30 11:06:55.275
 !MESSAGE Indexed 'BLE_p2pServer' (97 sources, 218 headers) in 6.23 sec: 26,079 declarations; 93,616 references; 0 unresolved inclusions; 3 syntax errors; 6 unresolved names (0.005%)
+!SESSION 2024-07-30 11:33:26.947 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-30 11:33:56.924
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-30 11:33:56.927
+!MESSAGE Log4j2 initialized with config file D:\Github\BLE_Implementation\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-30 11:34:17.538
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2024-07-30 10:28:55.756 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Github\BLE_Implementation
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-30 10:29:00.734
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-30 10:29:00.737
+!MESSAGE Log4j2 initialized with config file D:\Github\BLE_Implementation\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-30 10:29:14.186
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2024-07-31 04:25:22.427 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-31 04:26:01.038
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-31 04:26:01.057
+!MESSAGE Log4j2 initialized with config file D:\Github\BLE_Implementation\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-31 04:26:35.621
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-07-31 16:38:33.334 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-31 16:39:10.862
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-31 16:39:10.866
+!MESSAGE Log4j2 initialized with config file D:\Github\BLE_Implementation\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-31 16:39:40.368
+!MESSAGE Started RMI Server, listening on port 41339

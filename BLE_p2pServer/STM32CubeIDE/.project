@@ -290,21 +290,6 @@
 			<locationURI>PARENT-1-PROJECT_LOC/Drivers/BSP/STM32WBAxx_Nucleo/stm32wbaxx_nucleo.c</locationURI>
 		</link>
 		<link>
-			<name>Application/User/STM32_WPAN/App/app_ble.c</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/STM32_WPAN/App/app_ble.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/STM32_WPAN/App/p2p_server.c</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/STM32_WPAN/App/p2p_server.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/STM32_WPAN/App/p2p_server_app.c</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/STM32_WPAN/App/p2p_server_app.c</locationURI>
-		</link>
-		<link>
 			<name>Application/User/STM32_WPAN/Target/bleplat.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/STM32_WPAN/Target/bleplat.c</locationURI>

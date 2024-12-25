@@ -1,5 +1,5 @@
 Application/User/STM32_WPAN/App/p2p_server.o: \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server.c \
+ ../Application/User/STM32_WPAN/App/p2p_server.c \
  ../../System/Config/Log/log_module.h ../../Core/Inc/app_conf.h \
  ../../System/Interfaces/hw_if.h \
  ../../Drivers/CMSIS/Device/ST/STM32WBAxx/Include/stm32wbaxx.h \
@@ -77,8 +77,7 @@ Application/User/STM32_WPAN/App/p2p_server.o: \
  ../../Middlewares/ST/STM32_WPAN/ble/stack/include/ble_std.h \
  ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h \
  ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h \
- ../../System/Modules/dbg_trace.h \
- D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server.h
+ ../../System/Modules/dbg_trace.h ../../STM32_WPAN/App/p2p_server.h
 ../../System/Config/Log/log_module.h:
 ../../Core/Inc/app_conf.h:
 ../../System/Interfaces/hw_if.h:
@@ -161,4 +160,4 @@ Application/User/STM32_WPAN/App/p2p_server.o: \
 ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/svc_ctl.h:
 ../../Middlewares/ST/STM32_WPAN/ble/svc/Inc/uuid.h:
 ../../System/Modules/dbg_trace.h:
-D:/Github/BLE_Implementation/BLE_p2pServer/STM32_WPAN/App/p2p_server.h:
+../../STM32_WPAN/App/p2p_server.h:
